@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "imagen2.com",
+    "code": "def456",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "title": "Zapatillas",
+    "description": "Para correr",
+    "price": 2000,
+    "thumbnail": "imagen3.com",
+    "code": "ghi789",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "title": "Pantalones",
+    "description": "Para el día a día",
+    "price": 1200,
+    "thumbnail": "imagen4.com",
+    "code": "jkl1011",
+    "stock": 25
+  },
+  {
+    "id": 5,
+    "title": "Bufandas",
+    "description": "Para proteger del frío",
+    "price": 300,
+    "thumbnail": "imagen5.com",
+    "code": "mno1213",
+    "stock": 30
+  },
+  {
+    "id": 6,
+    "title": "Gorras",
+    "description": "Para el sol",
+    "price": 500,
+    "thumbnail": "imagen6.com",
+    "code": "pqr1415",
+    "stock": 18
+  },
+  {
+    "id": "c7125513-8981-46d5-94ca-ebfe38f9c2ce",
+    "title": "Gafas de Sol",
+    "description": "Para proteger los ojos del sol",
+    "code": "stu910",
+    "price": 600
+  },
+  {
+    "id": "4ddc98ed-3a6d-4c96-a058-46c2791efe69"
+  },
+  {
+    "id": "b4f58e76-4930-460f-90c5-957ac4c74633"
+  },
+  {
+    "id": "de8bdb30-0f0e-4c5d-8ea5-ee43ddfe69d1",
+    "title": "Camiseta Deportiva",
+    "description": "Ideal para actividades físicas",
+    "code": "abc789",
+    "price": 350
+  },
+  {
+    "id": "030b8290-bd7b-4d15-8759-15dfbfa57925",
+    "title": "Camiseta Deportiva",
+    "description": "Ideal para actividades físicas",
+    "code": "abc789",
+    "price": 350
+  }
+]
